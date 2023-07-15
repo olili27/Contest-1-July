@@ -33,13 +33,17 @@ div{
     margin: 2rem;
 }
 
+ol, ul {
+    padding-left: 1rem;
+}
+
 table{
     border-collapse: collapse;
     width: 70vw;
 }
 
-thead {
-    margin-bottom: 2rem;
+thead tr {
+    padding-bottom: 4rem;
 }
 
 td:first-child {
