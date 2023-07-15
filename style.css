@@ -5,10 +5,14 @@ body{
 
 nav{
     background-color: black;
-    height: 1rem;
     color: white;
-    height: 2rem;
+    height: 1rem;
+    display: flex;
+    justify-content: start;
+    align-items: center;
+    padding: 2rem;
 }
+
 
 button{
     border: none;
@@ -26,7 +30,7 @@ a{
 }
 
 div{
-    margin: 1rem;
+    margin: 2rem;
 }
 
 table{
